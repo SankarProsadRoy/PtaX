@@ -12,6 +12,7 @@ namespace PanchayatTAX.Controllers
         public ActionResult Index()
         {
             return View();
+            //hello
         }
     }
 }
